@@ -1,5 +1,7 @@
 /**
  * Binary search
+ *
+ * @author Lorne Millwood
  */
 public class BinarySearch {
 
